@@ -1,0 +1,9 @@
+Given a string, sort it based on the decreasing frequency of its characters.
+
+Example1
+Input: "Programming"
+Output: "rrggmmPiano"
+
+Example2
+Input: "abcbab"
+Output: "bbbaac"
