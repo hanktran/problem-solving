@@ -1,0 +1,13 @@
+Given an array of numbers and a number ‘K’, we need to remove ‘K’ numbers from the array such that we are left with maximum distinct numbers.
+
+Example1
+Input: [7, 3, 5, 8, 5, 3, 3], and K=2
+Output: 3
+
+Example2
+Input: [3, 5, 12, 11, 12], and K=3
+Output: 2
+
+Example3
+Input: [1, 2, 3, 3, 3, 3, 4, 4, 5, 5, 5], and K=2
+Output: 3

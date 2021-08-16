@@ -1,0 +1,13 @@
+Given a string, find if its letters can be rearranged in such a way that no two same characters come next to each other.
+
+Example1
+Input: "aappp"
+Output: "papap"
+
+Example2
+Input: "Programming"
+Output: "rgmrgmPiano" or "gmringmrPoa" or "gmrPagimnor", etc.
+
+Example3
+Input: "aapa"
+Output: ""
