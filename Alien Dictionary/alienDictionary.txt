@@ -1,0 +1,13 @@
+There is a dictionary containing words from an alien language for which we don’t know the ordering of the alphabets. Write a method to find the correct order of the alphabets in the alien language. It is given that the input is a valid dictionary and there exists an ordering among its alphabets.
+
+Example1
+Input: Words: ["ba", "bc", "ac", "cab"]
+Output: bac
+
+Example2
+Input: Words: ["cab", "aaa", "aab"]
+Output: cab
+
+Example3
+Input: Words: ["ywx", "wz", "xww", "xz", "zyy", "zwz"]
+Output: ywxz
