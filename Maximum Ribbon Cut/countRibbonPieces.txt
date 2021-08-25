@@ -1,0 +1,16 @@
+Given a number array to represent possible ribbon lengths and a total ribbon length ‘n,’ we need to find the maximum number of pieces that the ribbon can be cut into.
+
+Example1
+n: 5
+Ribbon Lengths: {2,3,5}
+Output: 2
+
+Example2
+n: 7
+Ribbon Lengths: {2,3}
+Output: 3
+
+Example3
+n: 13
+Ribbon Lengths: {3,5,7}
+Output: 3

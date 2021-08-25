@@ -1,0 +1,11 @@
+Given a number array to represent different coin denominations and a total amount ‘T’, we need to find the minimum number of coins needed to make a change for ‘T’. We can assume an infinite supply of coins, therefore, each coin can be chosen multiple times.
+
+Example1
+Denominations: {1,2,3}
+Total amount: 5
+Output: 2
+
+Example2
+Denominations: {1,2,3}
+Total amount: 11
+Output: 4
