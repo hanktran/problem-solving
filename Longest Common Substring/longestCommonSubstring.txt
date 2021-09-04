@@ -1,0 +1,11 @@
+Given two strings ‘s1’ and ‘s2’, find the length of the longest substring which is common in both the strings.
+
+Example1
+Input: s1 = "abdca"
+       s2 = "cbda"
+Output: 2
+
+Example2
+Input: s1 = "passport"
+       s2 = "ppsspt"
+Output: 3

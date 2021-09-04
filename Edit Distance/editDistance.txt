@@ -1,0 +1,19 @@
+Given strings s1 and s2, we need to transform s1 into s2 by deleting, inserting, or replacing characters. Write a function to calculate the count of the minimum number of edit operations.
+
+Example1
+Input: s1 = "bat"
+       s2 = "but"
+Output: 1
+Explanation: We just need to replace 'a' with 'u' to transform s1 to s2.
+
+Example2
+Input: s1 = "abdca"
+       s2 = "cbda"
+Output: 2
+Explanation: We can replace first 'a' with 'c' and delete second 'c'.
+
+Example3
+Input: s1 = "passpot"
+       s2 = "ppsspqrt"
+Output: 3 
+Explanation: Replace 'a' with 'p', 'o' with 'q', and insert 'r'.

@@ -1,0 +1,11 @@
+Given a number sequence, find the length of its Longest Bitonic Subsequence (LBS). A subsequence is considered bitonic if it is monotonically increasing and then monotonically decreasing.
+
+Example1
+Input: {4,2,3,6,10,1,12}
+Output: 5
+Explanation: The LBS is {2,3,6,10,1}.
+
+Example2
+Input: {4,2,5,9,7,6,10,3,1}
+Output: 7
+Explanation: The LBS is {4,5,9,7,6,3,1}.
