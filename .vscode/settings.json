@@ -36,6 +36,11 @@
     "streambuf": "cpp",
     "utility": "cpp",
     "typeinfo": "cpp",
-    "string": "cpp"
+    "string": "cpp",
+    "bitset": "cpp",
+    "cstring": "cpp",
+    "ctime": "cpp",
+    "memory": "cpp",
+    "regex": "cpp"
   }
 }
